@@ -33,6 +33,7 @@ Nhìn lướt Tags xem có đúng công nghệ không ->Nhảy thẳng đến c�
 "Thầy ơi máy em bị lỗi gõ npm không chạy được cứu em với!"
 
 2. Tin nhắn chuẩn theo Bug Reporting Framework 4 bước:
+
 |Mảnh ghép|Nội dung trong tin nhắn của bạn|
 |:---:|:---:|
 |Context|Đang cài đặt Node.js trên máy tính Windows 11 mới để làm bài tập lập trình web, mở Terminal trong VS Code.|
