@@ -31,6 +31,7 @@ Nhìn lướt Tags xem có đúng công nghệ không ->Nhảy thẳng đến c�
 1. Tin nhắn kiểu "Tin nhắn Kém":
 
 "Thầy ơi máy em bị lỗi gõ npm không chạy được cứu em với!"
+
 2. Tin nhắn chuẩn theo Bug Reporting Framework 4 bước:
 |Mảnh ghép|Nội dung trong tin nhắn của bạn|
 |:---:|:---:|
